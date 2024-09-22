@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**MrLucifer-92/MrLucifer-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lucifer ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+A gig that I like to manipulate and edit everything in the field of Android mobile software. My curiosity has no end because I am Lucifer hahaha
+
+If you have any questions or custom requests, I will be happy to help
+
+
+## contact me
+
+lucifer.bnd@gmail.com
+
+call:+989216597902
+
