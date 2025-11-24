@@ -1,4 +1,4 @@
-![Black Glossy Banner](https://raw.githubusercontent.com/MrLucifer-92/QuantumROM-Android-Samsung/main/banner.png)
+(https://raw.githubusercontent.com/MrLucifer-92/QuantumROM-Android-Samsung/main/banner.png)
 
 # 👋 Hi, I'm MrLucifer-92  
 
