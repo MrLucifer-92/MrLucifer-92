@@ -1,3 +1,5 @@
+![Black Glossy Banner](https://raw.githubusercontent.com/MrLucifer-92/QuantumROM-Android-Samsung/main/banner.png)
+
 # 👋 Hi, I'm MrLucifer-92  
 
 ### Penetration Tester | Android Modding Expert | Network Security Professional  
@@ -24,8 +26,3 @@
 ## 📫 Contact Me
 - **Email:** lucifer.bnd@gmail.com  
 - **Telegram:** [@TheWizarrrd](https://t.me/TheWizarrrd)  
-
----
-
-## 🖤 Theme
-This profile is designed with a **sleek black aesthetic** to reflect a professional, hacker-style vibe.  
