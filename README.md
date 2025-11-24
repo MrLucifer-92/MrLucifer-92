@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm MrLucifer-92  
 
-<!--
-**MrLucifer-92/MrLucifer-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Penetration Tester | Android Modding Expert | Network Security Professional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕶️ About Me
+- Professional in **penetration testing** and **Android system modification**  
+- Currently working on editing and customizing various **Android systems**  
+- Specialized in **Linux-based penetration testing**  
+- Primary operating system: **Linux**  
+- Latest project: [QuantumROM for Samsung Android](https://github.com/MrLucifer-92/QuantumROM-Android-Samsung.git)  
+
+---
+
+## ⚡ Skills & Expertise
+- **Penetration Testing** (Linux-based tools & methodologies)  
+- **Android ROM Development & Editing**  
+- **Network Security & Vulnerability Assessment**  
+- **System Hardening & Exploit Analysis**  
+
+---
+
+## 📫 Contact Me
+- **Email:** lucifer.bnd@gmail.com  
+- **Telegram:** [@TheWizarrrd](https://t.me/TheWizarrrd)  
+
+---
+
+## 🖤 Theme
+This profile is designed with a **sleek black aesthetic** to reflect a professional, hacker-style vibe.  
